@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Products 2020
 
-You can use the [editor on GitHub](https://github.com/robnhls/Products2020/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is what aour products will look like in the year 2020 ...
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

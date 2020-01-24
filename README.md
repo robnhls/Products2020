@@ -1,6 +1,6 @@
 ## Products 2020
 
-This is what aour products will look like in the year 2020 ...
+This is what our products will look like in the year 2020 ...
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
